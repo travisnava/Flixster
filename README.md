@@ -22,7 +22,7 @@ Flixster is an app that allows users to browse movies from the [The Movie Databa
 <img src="flixsterwalkthrough.gif" width=250><br>
 
 ### Notes
-Describe any challenges encountered while building the app.
+Had some difficulty with my emulator locking in the beginning, had to delete a file and restart in order to get the emulator running properly again.
 
 ### Open-source libraries used
 
